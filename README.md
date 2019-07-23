@@ -1,4 +1,4 @@
-
+```
 Node Js - Socket.IO
 
 Dependecies:
@@ -7,3 +7,4 @@ npm i nodemon -D
 
 $ npm install
 $ npm run dev
+```
